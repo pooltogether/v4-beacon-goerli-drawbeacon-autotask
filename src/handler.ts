@@ -9,10 +9,6 @@ export async function handler(event: any) {
       chainId: 4,
       providerUrl: event.secrets.ethereumRinkebyProviderURL,
     },
-    receiverChain: {
-      chainId: 0,
-      providerUrl: "",
-    },
     allPrizePoolNetworkChains: [
       {
         chainId: 4,
