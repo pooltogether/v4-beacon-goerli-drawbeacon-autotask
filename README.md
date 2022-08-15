@@ -1,7 +1,7 @@
-# V4 Beacon Chain (Rinkeby) DrawBeacon Autotask
+# V4 Beacon Chain (Goerli) DrawBeacon Autotask
 
-**Environment Variable** 
-```.sh 
+**Environment Variable**
+```.sh
 export AUTOTASK_ID=8363cd07-39b2-426a-a132-e3a1b842065f
 ```
 
